@@ -1,0 +1,13 @@
+{
+    "presets": [
+        "env"
+    ],
+    "plugins": [
+        "transform-object-rest-spread",
+        ["component", [
+        {
+          "libraryName": "mint-ui",
+          "style": true
+        }
+      ]]]
+}

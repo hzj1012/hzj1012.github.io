@@ -1,0 +1,15 @@
+
+
+@import "./mint-ui.css";
+@import "common";
+@import "font/iconfont.css";
+@import "font1/iconfont.css";
+@import "animate.css";
+
+$base_color:darkcyan;
+$base_ft:80px;
+
+html,body,#app,#indexbox,.childview{
+    width:100%;
+    height:100%;
+}
